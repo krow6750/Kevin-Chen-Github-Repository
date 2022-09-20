@@ -1,0 +1,55 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyN7IV/zjTsjh+VQ2Rb6xJX+",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "ir",
+      "display_name": "R"
+    },
+    "language_info": {
+      "name": "R"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/krow6750/Kevin-Chen-Github-Repository/blob/main/Homework%202\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 4,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 133
+        },
+        "id": "arkHgIfetyz_",
+        "outputId": "df1a88b8-d67a-46fb-c1a4-64c6e7592a38"
+      },
+      "outputs": [
+        {
+          "output_type": "error",
+          "ename": "ERROR",
+          "evalue": "ignored",
+          "traceback": [
+            "Error in parse(text = x, srcfile = src): <text>:1:6: unexpected symbol\n1: from google.colab\n         ^\nTraceback:\n"
+          ]
+        }
+      ],
+      "source": [
+        "from google.colab import drive"
+      ]
+    }
+  ]
+}
